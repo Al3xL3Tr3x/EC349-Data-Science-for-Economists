@@ -1,1 +1,1 @@
-# EC349-Data-Science-for-Economists
+# Git/VSCode practice 
